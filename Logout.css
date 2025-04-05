@@ -1,0 +1,15 @@
+/* Navbar.css */
+.logout-button {
+    background: none; /* Removes background */
+    border: none; /* Removes border */
+    color: white; /* White text color */
+    font-weight: bold; /* Makes text bold */
+    font-size: 16px; /* Adjust text size */
+    cursor: pointer; /* Changes cursor to pointer */
+    padding: 8px 12px; /* Adds some padding */
+  }
+  
+  .logout-button:hover {
+    text-decoration: underline; /* Underline on hover */
+  }
+  
